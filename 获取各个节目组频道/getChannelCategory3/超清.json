@@ -1,0 +1,300 @@
+{
+    "status": "200",
+    "channels": [
+        {
+            "code": "02000004000000052015081800000001",
+            "title": "广东卫视超清",
+            "subTitle": "广东卫视超清",
+            "channelnum": "500",
+            "icon": "http://183.235.16.92:8081/pics/micro-picture/channelNew/02000001000000050000000000000001.png",
+            "icon2": "",
+            "showFlag": "ChannelMark_6",
+            "timeshiftAvailable": "true",
+            "lookbackAvailable": "true",
+            "isCharge": "0",
+            "params": {
+                "ztecode": "ch000000000000099",
+                "hwurl": "rtp://239.10.0.45:1025",
+                "zteurl": "rtp://239.20.0.99:3004",
+                "playBackRecommendPos": "BizPosition_69710",
+                "hwmediaid": "10000100000000060000000001240061",
+                "recommendPos": "BizPosition_16227",
+                "hwcode": "10000100000000050000000000535876"
+            },
+            "phychannels": [
+                {
+                    "code": "PhysicalChannel_845",
+                    "channelCode": "02000004000000052015081800000001",
+                    "bitrateType": "6",
+                    "bitrateTypeName": "超清",
+                    "params": {
+                        "ztecode": "ch000000000000099",
+                        "hwurl": "rtp://239.10.0.45:1025",
+                        "zteurl": "rtp://239.20.0.99:3004",
+                        "hwmediaid": "10000100000000060000000001240061",
+                        "hwcode": "10000100000000050000000000535876"
+                    }
+                },
+                {
+                    "code": "PhysicalChannel_1067",
+                    "channelCode": "02000004000000052015081800000001",
+                    "bitrateType": "4",
+                    "bitrateTypeName": "高清",
+                    "params": {
+                        "ztecode": "ch000000000000101",
+                        "hwurl": "rtp://239.10.0.111:1025",
+                        "zteurl": "rtp://239.20.0.101:2000",
+                        "hwmediaid": "10000100000000060000000000128929",
+                        "hwcode": "10000100000000050000000000088862"
+                    }
+                },
+                {
+                    "code": "PhysicalChannel_1069",
+                    "channelCode": "02000004000000052015081800000001",
+                    "bitrateType": "2",
+                    "bitrateTypeName": "标清",
+                    "params": {
+                        "ztecode": "ch000000000000131",
+                        "hwurl": "rtp://239.10.0.141:1025",
+                        "zteurl": "rtp://239.20.0.131:2060",
+                        "hwmediaid": "10000100000000060000000000128686",
+                        "hwcode": "10000100000000050000000000088842"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "02000004000000052015081800000002",
+            "title": "经济科教超清",
+            "subTitle": "广东经济科教超清",
+            "channelnum": "501",
+            "icon": "http://183.235.16.92:8081/pics/category/201912/13/2019121315555447942886.png",
+            "icon2": "",
+            "showFlag": "ChannelMark_6",
+            "timeshiftAvailable": "true",
+            "lookbackAvailable": "true",
+            "isCharge": "0",
+            "params": {
+                "ztecode": "ch000000000000098",
+                "hwurl": "rtp://239.10.0.46:1025",
+                "zteurl": "rtp://239.20.0.98:3008",
+                "hwmediaid": "10000100000000060000000001240199",
+                "recommendPos": "BizPosition_16227",
+                "hwcode": "10000100000000050000000000536014"
+            },
+            "phychannels": [
+                {
+                    "code": "PhysicalChannel_789",
+                    "channelCode": "02000004000000052015081800000002",
+                    "bitrateType": "6",
+                    "bitrateTypeName": "超清",
+                    "params": {
+                        "ztecode": "ch000000000000098",
+                        "hwurl": "rtp://239.10.0.46:1025",
+                        "zteurl": "rtp://239.20.0.98:3008",
+                        "hwmediaid": "10000100000000060000000001240199",
+                        "hwcode": "10000100000000050000000000536014"
+                    }
+                },
+                {
+                    "code": "PhysicalChannel_1001",
+                    "channelCode": "02000004000000052015081800000002",
+                    "bitrateType": "4",
+                    "bitrateTypeName": "高清",
+                    "params": {
+                        "ztecode": "ch000000000000102",
+                        "hwurl": "rtp://239.10.0.112:1025",
+                        "zteurl": "rtp://239.20.0.102:2002",
+                        "hwmediaid": "10000100000000060000000000128445",
+                        "hwcode": "10000100000000050000000000088721"
+                    }
+                },
+                {
+                    "code": "PhysicalChannel_1003",
+                    "channelCode": "02000004000000052015081800000002",
+                    "bitrateType": "2",
+                    "bitrateTypeName": "标清",
+                    "params": {
+                        "ztecode": "ch000000000000191",
+                        "hwurl": "rtp://239.10.0.201:1025",
+                        "zteurl": "rtp://239.20.0.191:2180",
+                        "hwmediaid": "10000100000000060000000000315395",
+                        "hwcode": "10000100000000050000000000122822"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "02000004000000052015081800000003",
+            "title": "广东体育超清",
+            "subTitle": "广东体育超清",
+            "channelnum": "502",
+            "icon": "http://183.235.16.92:8081/pics/micro-picture/channelNew/02000006000000052015070399000001.png",
+            "icon2": "",
+            "showFlag": "ChannelMark_6",
+            "timeshiftAvailable": "false",
+            "lookbackAvailable": "true",
+            "isCharge": "0",
+            "params": {
+                "ztecode": "ch000000000000097",
+                "hwurl": "rtp://239.10.0.47:1025",
+                "zteurl": "rtp://239.20.0.97:3012",
+                "playBackRecommendPos": "BizPosition_69714",
+                "hwmediaid": "10000100000000060000000001240330",
+                "recommendPos": "BizPosition_16227",
+                "hwcode": "10000100000000050000000000536146"
+            },
+            "phychannels": [
+                {
+                    "code": "PhysicalChannel_851",
+                    "channelCode": "02000004000000052015081800000003",
+                    "bitrateType": "6",
+                    "bitrateTypeName": "超清",
+                    "params": {
+                        "ztecode": "ch000000000000097",
+                        "hwurl": "rtp://239.10.0.47:1025",
+                        "zteurl": "rtp://239.20.0.97:3012",
+                        "hwmediaid": "10000100000000060000000001240330",
+                        "hwcode": "10000100000000050000000000536146"
+                    }
+                },
+                {
+                    "code": "PhysicalChannel_1075",
+                    "channelCode": "02000004000000052015081800000003",
+                    "bitrateType": "4",
+                    "bitrateTypeName": "高清",
+                    "params": {
+                        "ztecode": "ch000000000000103",
+                        "hwurl": "rtp://239.10.0.113:1025",
+                        "zteurl": "rtp://239.20.0.103:2004",
+                        "hwmediaid": "10000100000000060000000000128461",
+                        "hwcode": "10000100000000050000000000088732"
+                    }
+                },
+                {
+                    "code": "PhysicalChannel_1077",
+                    "channelCode": "02000004000000052015081800000003",
+                    "bitrateType": "2",
+                    "bitrateTypeName": "标清",
+                    "params": {
+                        "ztecode": "ch000000000000114",
+                        "hwurl": "rtp://239.10.0.124:1025",
+                        "zteurl": "rtp://239.20.0.114:2026",
+                        "hwmediaid": "10000100000000060000000000128485",
+                        "hwcode": "10000100000000050000000000088754"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "02000006000000052018092799000002",
+            "title": "广东珠江超清",
+            "subTitle": "广东珠江超清",
+            "channelnum": "503",
+            "icon": "http://183.235.16.92:8081/pics/micro-picture/channelNew/02000006000000052015070399000004.png",
+            "icon2": "",
+            "showFlag": "ChannelMark_6",
+            "timeshiftAvailable": "true",
+            "lookbackAvailable": "false",
+            "isCharge": "0",
+            "params": {
+                "ztecode": "ch000000000000063",
+                "hwurl": "rtp://239.10.0.63:1025",
+                "zteurl": "rtp://239.20.0.63:3148",
+                "playBackRecommendPos": "BizPosition_42854",
+                "hwmediaid": "10000100000000060000000001252439",
+                "recommendPos": "BizPosition_29950",
+                "hwcode": "10000100000000050000000000548377"
+            },
+            "phychannels": [
+                {
+                    "code": "02000006000000062018092799000002",
+                    "channelCode": "02000006000000052018092799000002",
+                    "bitrateType": "6",
+                    "bitrateTypeName": "超清",
+                    "params": {
+                        "ztecode": "ch000000000000063",
+                        "hwurl": "rtp://239.10.0.63:1025",
+                        "zteurl": "rtp://239.20.0.63:3148",
+                        "hwmediaid": "10000100000000060000000001252439",
+                        "hwcode": "10000100000000050000000000548377"
+                    }
+                },
+                {
+                    "code": "PhysicalChannel_1063",
+                    "channelCode": "02000006000000052018092799000002",
+                    "bitrateType": "4",
+                    "bitrateTypeName": "高清",
+                    "params": {
+                        "ztecode": "ch000000000000064",
+                        "hwurl": "rtp://239.10.0.62:1025",
+                        "zteurl": "rtp://239.20.0.64:3144",
+                        "hwmediaid": "10000100000000060000000001252438",
+                        "hwcode": "10000100000000050000000000548368"
+                    }
+                },
+                {
+                    "code": "PhysicalChannel_1065",
+                    "channelCode": "02000006000000052018092799000002",
+                    "bitrateType": "2",
+                    "bitrateTypeName": "标清",
+                    "params": {
+                        "ztecode": "ch000000000000111",
+                        "hwurl": "rtp://239.10.0.121:1025",
+                        "zteurl": "rtp://239.20.0.111:2020",
+                        "hwmediaid": "10000100000000060000000000128477",
+                        "hwcode": "10000100000000050000000000088746"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "02000006000000052015012700000001",
+            "title": "山东卫视超清",
+            "subTitle": "山东卫视超清",
+            "channelnum": "528",
+            "icon": "http://183.235.16.92:8081/pics/micro-picture/channel/2023-09-01/6a8aa8d9-03d0-4019-aed8-4bfde24a19c4.png",
+            "icon2": "",
+            "showFlag": "ChannelMark_6",
+            "timeshiftAvailable": "true",
+            "lookbackAvailable": "true",
+            "isCharge": "0",
+            "params": {
+                "ztecode": "ch000000000000088",
+                "hwurl": "rtp://239.10.0.56:1025",
+                "zteurl": "rtp://239.20.0.88:3048",
+                "hwmediaid": "10000100000000060000000001240274",
+                "recommendPos": "BizPosition_16227",
+                "hwcode": "10000100000000050000000000536090"
+            },
+            "phychannels": [
+                {
+                    "code": "PhysicalChannel_775",
+                    "channelCode": "02000006000000052015012700000001",
+                    "bitrateType": "6",
+                    "bitrateTypeName": "超清",
+                    "params": {
+                        "ztecode": "ch000000000000088",
+                        "hwurl": "rtp://239.10.0.56:1025",
+                        "zteurl": "rtp://239.20.0.88:3048",
+                        "hwmediaid": "10000100000000060000000001240274",
+                        "hwcode": "10000100000000050000000000536090"
+                    }
+                },
+                {
+                    "code": "PhysicalChannel_20220613142155_001492",
+                    "channelCode": "02000006000000052015012700000001",
+                    "bitrateType": "4",
+                    "bitrateTypeName": "高清",
+                    "params": {
+                        "hwcode": "10000100000000050000000000088752",
+                        "hwmediaid": "10000100000000060000000000128483",
+                        "hwurl": "rtp://239.10.0.182:1025",
+                        "ztecode": "ch000000000000172",
+                        "zteurl": "rtp://239.20.0.172:2142"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,411 @@
+{
+    "status": "200",
+    "channels": [
+        {
+            "code": "02000001000000050000000000000389",
+            "title": "南方购物",
+            "subTitle": "南方购物",
+            "channelnum": "091",
+            "icon": "http://183.235.16.92:8081/pics/micro-picture/channelNew/02000001000000050000000000000389.png",
+            "icon2": "",
+            "showFlag": "ChannelMark_2",
+            "timeshiftAvailable": "true",
+            "lookbackAvailable": "true",
+            "isCharge": "0",
+            "params": {
+                "ztecode": "ch000000000000116",
+                "hwurl": "rtp://239.10.0.126:1025",
+                "zteurl": "rtp://239.20.0.116:2030",
+                "hwmediaid": "10000100000000060000000000128491",
+                "recommendPos": "BizPosition_16227",
+                "hwcode": "10000100000000050000000000088759"
+            },
+            "phychannels": [
+                {
+                    "code": "02000001000000060000000000000389",
+                    "channelCode": "02000001000000050000000000000389",
+                    "bitrateType": "2",
+                    "bitrateTypeName": "标清",
+                    "params": {
+                        "ztecode": "ch000000000000116",
+                        "hwurl": "rtp://239.10.0.126:1025",
+                        "zteurl": "rtp://239.20.0.116:2030",
+                        "hwmediaid": "10000100000000060000000000128491",
+                        "hwcode": "10000100000000050000000000088759"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "02000001000000050000000000000385",
+            "title": "岭南戏曲",
+            "subTitle": "岭南戏曲",
+            "channelnum": "093",
+            "icon": "http://183.235.16.92:8081/pics/micro-picture/channelNew/02000001000000050000000000000385.png",
+            "icon2": "",
+            "showFlag": "ChannelMark_4",
+            "timeshiftAvailable": "true",
+            "lookbackAvailable": "true",
+            "isCharge": "0",
+            "params": {
+                "ztecode": "ch000000000000115",
+                "hwurl": "rtp://239.10.0.125:1025",
+                "zteurl": "rtp://239.20.0.115:2028",
+                "playBackRecommendPos": "BizPosition_73698",
+                "hwmediaid": "10000100000000060000000000128489",
+                "recommendPos": "BizPosition_16227",
+                "hwcode": "10000100000000050000000000088757"
+            },
+            "phychannels": [
+                {
+                    "code": "PhysicalChannel_20230919151258_001560",
+                    "channelCode": "02000001000000050000000000000385",
+                    "bitrateType": "4",
+                    "bitrateTypeName": "高清",
+                    "params": {
+                        "hwcode": "urn:Huawei:liveTV:XTV392490743",
+                        "hwmediaid": "urn:Huawei:liveTV:XTV392490743:E1392490744",
+                        "hwurl": "rtp://239.11.0.180:1025",
+                        "ztecode": "ch000000000000388",
+                        "zteurl": "rtp://239.21.0.147:3932"
+                    }
+                },
+                {
+                    "code": "02000001000000060000000000000385",
+                    "channelCode": "02000001000000050000000000000385",
+                    "bitrateType": "2",
+                    "bitrateTypeName": "标清",
+                    "params": {
+                        "ztecode": "ch000000000000115",
+                        "hwurl": "rtp://239.10.0.125:1025",
+                        "zteurl": "rtp://239.20.0.115:2028",
+                        "hwmediaid": "10000100000000060000000000128489",
+                        "hwcode": "10000100000000050000000000088757"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "02000001000000050000000000000214",
+            "title": "CCTV-3综艺",
+            "subTitle": "CCTV-3综艺",
+            "channelnum": "102",
+            "icon": "http://183.235.16.92:8081/pics/micro-picture/channelNew/02000001000000050000000000000214.png",
+            "icon2": "",
+            "showFlag": "ChannelMark_4",
+            "timeshiftAvailable": "true",
+            "lookbackAvailable": "true",
+            "isCharge": "0",
+            "params": {
+                "ztecode": "ch000000000000027",
+                "hwurl": "rtp://239.10.0.107:1025",
+                "zteurl": "rtp://239.20.0.27:3296",
+                "playBackRecommendPos": "BizPosition_73692",
+                "hwmediaid": "10000100000000060000000001562985",
+                "recommendPos": "BizPosition_16227",
+                "hwcode": "10000100000000050000000000759970"
+            },
+            "phychannels": [
+                {
+                    "code": "PhysicalChannel_883",
+                    "channelCode": "02000001000000050000000000000214",
+                    "bitrateType": "4",
+                    "bitrateTypeName": "高清",
+                    "params": {
+                        "ztecode": "ch000000000000028",
+                        "hwurl": "rtp://239.10.0.101:1025",
+                        "zteurl": "rtp://239.20.0.28:3292",
+                        "hwmediaid": "10000100000000060000000001560907",
+                        "hwcode": "10000100000000050000000000757850"
+                    }
+                },
+                {
+                    "code": "02000001000000060000000000000214",
+                    "channelCode": "02000001000000050000000000000214",
+                    "bitrateType": "2",
+                    "bitrateTypeName": "标清",
+                    "params": {
+                        "ztecode": "ch000000000000027",
+                        "hwurl": "rtp://239.10.0.107:1025",
+                        "zteurl": "rtp://239.20.0.27:3296",
+                        "hwmediaid": "10000100000000060000000001562985",
+                        "hwcode": "10000100000000050000000000759970"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "02000001000000050000000000000218",
+            "title": "CCTV-8电视剧",
+            "subTitle": "CCTV-8电视剧",
+            "channelnum": "107",
+            "icon": "http://183.235.16.92:8081/pics/micro-picture/channelNew/02000001000000050000000000000218.png",
+            "icon2": "",
+            "showFlag": "ChannelMark_4",
+            "timeshiftAvailable": "true",
+            "lookbackAvailable": "true",
+            "isCharge": "0",
+            "params": {
+                "ztecode": "ch000000000000024",
+                "hwurl": "rtp://239.10.0.110:1025",
+                "zteurl": "rtp://239.20.0.24:3308",
+                "playBackRecommendPos": "BizPosition_69720",
+                "hwmediaid": "10000100000000060000000001562988",
+                "recommendPos": "BizPosition_16227",
+                "hwcode": "10000100000000050000000000759973"
+            },
+            "phychannels": [
+                {
+                    "code": "PhysicalChannel_873",
+                    "channelCode": "02000001000000050000000000000218",
+                    "bitrateType": "4",
+                    "bitrateTypeName": "高清",
+                    "params": {
+                        "ztecode": "ch000000000000031",
+                        "hwurl": "rtp://239.10.0.104:1025",
+                        "zteurl": "rtp://239.20.0.31:3280",
+                        "hwmediaid": "10000100000000060000000001560910",
+                        "hwcode": "10000100000000050000000000757857"
+                    }
+                },
+                {
+                    "code": "02000001000000060000000000000218",
+                    "channelCode": "02000001000000050000000000000218",
+                    "bitrateType": "2",
+                    "bitrateTypeName": "标清",
+                    "params": {
+                        "ztecode": "ch000000000000024",
+                        "hwurl": "rtp://239.10.0.110:1025",
+                        "zteurl": "rtp://239.20.0.24:3308",
+                        "hwmediaid": "10000100000000060000000001562988",
+                        "hwcode": "10000100000000050000000000759973"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "02000000000000050000000000000056",
+            "title": "CCTV-11戏曲",
+            "subTitle": "CCTV-11戏曲",
+            "channelnum": "110",
+            "icon": "http://183.235.16.92:8081/pics/micro-picture/channelNew/02000000000000050000000000000056.png",
+            "icon2": "",
+            "showFlag": "ChannelMark_4",
+            "timeshiftAvailable": "true",
+            "lookbackAvailable": "true",
+            "isCharge": "0",
+            "params": {
+                "ztecode": "ch000000000000181",
+                "hwurl": "rtp://239.10.0.191:1025",
+                "zteurl": "rtp://239.20.0.181:2160",
+                "playBackRecommendPos": "BizPosition_73696",
+                "hwmediaid": "10000100000000060000000000128459",
+                "recommendPos": "BizPosition_16227",
+                "hwcode": "10000100000000050000000000088733"
+            },
+            "phychannels": [
+                {
+                    "code": "PhysicalChannel_901",
+                    "channelCode": "02000000000000050000000000000056",
+                    "bitrateType": "4",
+                    "bitrateTypeName": "高清",
+                    "params": {
+                        "ztecode": "ch000000000000276",
+                        "hwurl": "rtp://239.11.0.24:1025",
+                        "zteurl": "rtp://239.21.0.35:3480",
+                        "hwmediaid": "10000100000000060000000001792525",
+                        "hwcode": "10000100000000050000000000993073"
+                    }
+                },
+                {
+                    "code": "02000000000000060000000000000034",
+                    "channelCode": "02000000000000050000000000000056",
+                    "bitrateType": "2",
+                    "bitrateTypeName": "标清",
+                    "params": {
+                        "ztecode": "ch000000000000181",
+                        "hwurl": "rtp://239.10.0.191:1025",
+                        "zteurl": "rtp://239.20.0.181:2160",
+                        "hwmediaid": "10000100000000060000000000128459",
+                        "hwcode": "10000100000000050000000000088733"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "02000006000000052022090199000001",
+            "title": "书画",
+            "subTitle": "书画",
+            "channelnum": "817",
+            "icon": "http://183.235.16.92:8081/pics/micro-picture/channelNew/02000006000000052022090199000001.png",
+            "icon2": "",
+            "showFlag": "ChannelMark_2",
+            "timeshiftAvailable": "true",
+            "lookbackAvailable": "true",
+            "isCharge": "0",
+            "params": {
+                "ztecode": "ch000000000000381",
+                "hwurl": "rtp://239.11.0.174:1025",
+                "zteurl": "rtp://239.21.0.140:3904",
+                "hwmediaid": "urn:Huawei:liveTV:XTV387290308:E1387290309",
+                "recommendPos": "",
+                "hwcode": "urn:Huawei:liveTV:XTV387290308"
+            },
+            "phychannels": [
+                {
+                    "code": "02000006000000062022090199000002",
+                    "channelCode": "02000006000000052022090199000001",
+                    "bitrateType": "2",
+                    "bitrateTypeName": "标清",
+                    "params": {
+                        "hwcode": "urn:Huawei:liveTV:XTV387290308",
+                        "hwmediaid": "urn:Huawei:liveTV:XTV387290308:E1387290309",
+                        "hwurl": "rtp://239.11.0.174:1025",
+                        "ztecode": "ch000000000000381",
+                        "zteurl": "rtp://239.21.0.140:3904"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "02000006000000052017041099000012",
+            "title": "老故事",
+            "subTitle": "老故事",
+            "channelnum": "820",
+            "icon": "http://183.235.16.92:8081/pics/micro-picture/channelNew/02000006000000052017041099000012.png",
+            "icon2": "",
+            "showFlag": "ChannelMark_2",
+            "timeshiftAvailable": "true",
+            "lookbackAvailable": "true",
+            "isCharge": "0",
+            "params": {
+                "ztecode": "ch000000000000227",
+                "hwurl": "rtp://239.10.0.33:1025",
+                "zteurl": "rtp://239.20.0.227:2252",
+                "hwmediaid": "10000100000000060000000001155330",
+                "recommendPos": "BizPosition_16227",
+                "hwcode": "10000100000000050000000000450887"
+            },
+            "phychannels": [
+                {
+                    "code": "PhysicalChannel_787",
+                    "channelCode": "02000006000000052017041099000012",
+                    "bitrateType": "2",
+                    "bitrateTypeName": "标清",
+                    "params": {
+                        "ztecode": "ch000000000000227",
+                        "hwurl": "rtp://239.10.0.33:1025",
+                        "zteurl": "rtp://239.20.0.227:2252",
+                        "hwmediaid": "10000100000000060000000001155330",
+                        "hwcode": "10000100000000050000000000450887"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "02000006000000052017041099000016",
+            "title": "环球奇观",
+            "subTitle": "环球奇观",
+            "channelnum": "824",
+            "icon": "http://183.235.16.92:8081/pics/category/201801/22/2018012209314388114760.png",
+            "icon2": "",
+            "showFlag": "ChannelMark_2",
+            "timeshiftAvailable": "true",
+            "lookbackAvailable": "true",
+            "isCharge": "0",
+            "params": {
+                "ztecode": "ch000000000000245",
+                "hwurl": "rtp://239.10.0.36:1025",
+                "zteurl": "rtp://239.20.0.245:2288",
+                "hwmediaid": "10000100000000060000000001155333",
+                "recommendPos": "BizPosition_16227",
+                "hwcode": "10000100000000050000000000450890"
+            },
+            "phychannels": [
+                {
+                    "code": "47",
+                    "channelCode": "02000006000000052017041099000016",
+                    "bitrateType": "2",
+                    "bitrateTypeName": "标清",
+                    "params": {
+                        "ztecode": "ch000000000000245",
+                        "hwurl": "rtp://239.10.0.36:1025",
+                        "zteurl": "rtp://239.20.0.245:2288",
+                        "hwmediaid": "10000100000000060000000001155333",
+                        "hwcode": "10000100000000050000000000450890"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "02000006000000052020061799000008",
+            "title": "怀旧剧场高清",
+            "subTitle": "怀旧剧场高清",
+            "channelnum": "837",
+            "icon": "http://183.235.16.92:8081/pics/micro-picture/channelNew/02000006000000052020061799000008.png",
+            "icon2": "",
+            "showFlag": "ChannelMark_4",
+            "timeshiftAvailable": "true",
+            "lookbackAvailable": "true",
+            "isCharge": "0",
+            "params": {
+                "ztecode": "ch000000000000316",
+                "hwurl": "rtp://239.11.0.64:1025",
+                "zteurl": "rtp://239.21.0.75:3640",
+                "hwmediaid": "10000100000000060000000002014542",
+                "recommendPos": "",
+                "hwcode": "10000100000000050000000001216772"
+            },
+            "phychannels": [
+                {
+                    "code": "02000006000000062020061799000008",
+                    "channelCode": "02000006000000052020061799000008",
+                    "bitrateType": "4",
+                    "bitrateTypeName": "高清",
+                    "params": {
+                        "ztecode": "ch000000000000316",
+                        "hwurl": "rtp://239.11.0.64:1025",
+                        "zteurl": "rtp://239.21.0.75:3640",
+                        "hwmediaid": "10000100000000060000000002014542",
+                        "hwcode": "10000100000000050000000001216772"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "02000006000000052020061799000009",
+            "title": "风云剧场高清",
+            "subTitle": "风云剧场高清",
+            "channelnum": "838",
+            "icon": "http://183.235.16.92:8081/pics/micro-picture/channelNew/02000006000000052020061799000009.png",
+            "icon2": "",
+            "showFlag": "ChannelMark_4",
+            "timeshiftAvailable": "true",
+            "lookbackAvailable": "true",
+            "isCharge": "0",
+            "params": {
+                "ztecode": "ch000000000000317",
+                "hwurl": "rtp://239.11.0.65:1025",
+                "zteurl": "rtp://239.21.0.76:3644",
+                "hwmediaid": "10000100000000060000000002014563",
+                "recommendPos": "",
+                "hwcode": "10000100000000050000000001216780"
+            },
+            "phychannels": [
+                {
+                    "code": "02000006000000062020061799000009",
+                    "channelCode": "02000006000000052020061799000009",
+                    "bitrateType": "4",
+                    "bitrateTypeName": "高清",
+                    "params": {
+                        "ztecode": "ch000000000000317",
+                        "hwurl": "rtp://239.11.0.65:1025",
+                        "zteurl": "rtp://239.21.0.76:3644",
+                        "hwmediaid": "10000100000000060000000002014563",
+                        "hwcode": "10000100000000050000000001216780"
+                    }
+                }
+            ]
+        }
+    ]
+}

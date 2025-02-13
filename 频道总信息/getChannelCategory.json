@@ -1,0 +1,123 @@
+{
+    "status": "200",
+    "title": "频道分类",
+    "code": "biz_42519786",
+    "background": "",
+    "areaDatas": [
+        {
+            "areaCode": "1",
+            "areaType": "menu",
+            "areaRect": "",
+            "areaTitle": "频道分类",
+            "areaIcon": "",
+            "dataLink": "http://183.235.16.92:8082/epg/api/page/biz_42519786.json",
+            "items": [
+                {
+                    "itemTitle": "全部",
+                    "itemSubTitle": "",
+                    "itemCode": "biz_20015294",
+                    "itemType": "biz",
+                    "itemIcon": "",
+                    "showFlag": "",
+                    "opShowFlag": "",
+                    "hImg": "",
+                    "vImg": "",
+                    "opimg1": "",
+                    "opimg2": "",
+                    "linkType": "",
+                    "dataLink": "http://183.235.16.92:8082/epg/api/custom/getChannelItems.json?code=category_54543193"
+                },
+                {
+                    "itemTitle": "高清",
+                    "itemSubTitle": "",
+                    "itemCode": "biz_85136612",
+                    "itemType": "biz",
+                    "itemIcon": "",
+                    "showFlag": "",
+                    "opShowFlag": "",
+                    "hImg": "",
+                    "vImg": "",
+                    "opimg1": "",
+                    "opimg2": "",
+                    "linkType": "",
+                    "dataLink": "http://183.235.16.92:8082/epg/api/custom/getChannelItems.json?code=category_96361081"
+                },
+                {
+                    "itemTitle": "广东",
+                    "itemSubTitle": "",
+                    "itemCode": "biz_83343497",
+                    "itemType": "biz",
+                    "itemIcon": "",
+                    "showFlag": "",
+                    "opShowFlag": "",
+                    "hImg": "",
+                    "vImg": "",
+                    "opimg1": "",
+                    "opimg2": "",
+                    "linkType": "",
+                    "dataLink": "http://183.235.16.92:8082/epg/api/custom/getChannelItems.json?code=category_17879511"
+                },
+                {
+                    "itemTitle": "央视",
+                    "itemSubTitle": "",
+                    "itemCode": "biz_23787786",
+                    "itemType": "biz",
+                    "itemIcon": "",
+                    "showFlag": "",
+                    "opShowFlag": "",
+                    "hImg": "",
+                    "vImg": "",
+                    "opimg1": "",
+                    "opimg2": "",
+                    "linkType": "",
+                    "dataLink": "http://183.235.16.92:8082/epg/api/custom/getChannelItems.json?code=category_51156026"
+                },
+                {
+                    "itemTitle": "卫视",
+                    "itemSubTitle": "",
+                    "itemCode": "biz_42303102",
+                    "itemType": "biz",
+                    "itemIcon": "",
+                    "showFlag": "",
+                    "opShowFlag": "",
+                    "hImg": "",
+                    "vImg": "",
+                    "opimg1": "",
+                    "opimg2": "",
+                    "linkType": "",
+                    "dataLink": "http://183.235.16.92:8082/epg/api/custom/getChannelItems.json?code=category_46002687"
+                },
+                {
+                    "itemTitle": "中数",
+                    "itemSubTitle": "",
+                    "itemCode": "biz_75953213",
+                    "itemType": "biz",
+                    "itemIcon": "",
+                    "showFlag": "",
+                    "opShowFlag": "",
+                    "hImg": "",
+                    "vImg": "",
+                    "opimg1": "",
+                    "opimg2": "",
+                    "linkType": "",
+                    "dataLink": "http://183.235.16.92:8082/epg/api/custom/getChannelItems.json?code=category_34893662"
+                },
+                {
+                    "itemTitle": "超清",
+                    "itemSubTitle": "",
+                    "itemCode": "biz_16941293",
+                    "itemType": "biz",
+                    "itemIcon": "",
+                    "showFlag": "",
+                    "opShowFlag": "",
+                    "hImg": "",
+                    "vImg": "",
+                    "opimg1": "",
+                    "opimg2": "",
+                    "linkType": "",
+                    "dataLink": "http://183.235.16.92:8082/epg/api/custom/getChannelItems.json?code=category_33711589"
+                }
+            ]
+        }
+    ]
+}

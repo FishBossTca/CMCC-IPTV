@@ -1,0 +1,353 @@
+{
+    "status": "200",
+    "channels": [
+        {
+            "code": "02000001000000050000000000000003",
+            "title": "广东体育",
+            "subTitle": "广东体育",
+            "channelnum": "005",
+            "icon": "http://183.235.16.92:8081/pics/micro-picture/channelNew/02000006000000052015070399000001.png",
+            "icon2": "",
+            "showFlag": "ChannelMark_6",
+            "timeshiftAvailable": "false",
+            "lookbackAvailable": "true",
+            "isCharge": "0",
+            "params": {
+                "ztecode": "ch000000000000114",
+                "hwurl": "rtp://239.10.0.124:1025",
+                "zteurl": "rtp://239.20.0.114:2026",
+                "playBackRecommendPos": "BizPosition_69714",
+                "hwmediaid": "10000100000000060000000000128485",
+                "recommendPos": "BizPosition_16227",
+                "hwcode": "10000100000000050000000000088754"
+            },
+            "phychannels": [
+                {
+                    "code": "PhysicalChannel_855",
+                    "channelCode": "02000001000000050000000000000003",
+                    "bitrateType": "6",
+                    "bitrateTypeName": "超清",
+                    "params": {
+                        "ztecode": "ch000000000000097",
+                        "hwurl": "rtp://239.10.0.47:1025",
+                        "zteurl": "rtp://239.20.0.97:3012",
+                        "hwmediaid": "10000100000000060000000001240330",
+                        "hwcode": "10000100000000050000000000536146"
+                    }
+                },
+                {
+                    "code": "PhysicalChannel_853",
+                    "channelCode": "02000001000000050000000000000003",
+                    "bitrateType": "4",
+                    "bitrateTypeName": "高清",
+                    "params": {
+                        "ztecode": "ch000000000000103",
+                        "hwurl": "rtp://239.10.0.113:1025",
+                        "zteurl": "rtp://239.20.0.103:2004",
+                        "hwmediaid": "10000100000000060000000000128461",
+                        "hwcode": "10000100000000050000000000088732"
+                    }
+                },
+                {
+                    "code": "02000001000000060000000000000003",
+                    "channelCode": "02000001000000050000000000000003",
+                    "bitrateType": "2",
+                    "bitrateTypeName": "标清",
+                    "params": {
+                        "ztecode": "ch000000000000114",
+                        "hwurl": "rtp://239.10.0.124:1025",
+                        "zteurl": "rtp://239.20.0.114:2026",
+                        "hwmediaid": "10000100000000060000000000128485",
+                        "hwcode": "10000100000000050000000000088754"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "02000001000000050000000000000216",
+            "title": "CCTV-5体育",
+            "subTitle": "CCTV-5体育",
+            "channelnum": "104",
+            "icon": "http://183.235.16.92:8081/pics/micro-picture/channelNew/02000001000000050000000000000216.png",
+            "icon2": "",
+            "showFlag": "ChannelMark_4",
+            "timeshiftAvailable": "true",
+            "lookbackAvailable": "true",
+            "isCharge": "0",
+            "params": {
+                "ztecode": "ch000000000000026",
+                "hwurl": "rtp://239.10.0.108:1025",
+                "zteurl": "rtp://239.20.0.26:3300",
+                "playBackRecommendPos": "BizPosition_73694",
+                "hwmediaid": "10000100000000060000000001562986",
+                "recommendPos": "BizPosition_16227",
+                "hwcode": "10000100000000050000000000759971"
+            },
+            "phychannels": [
+                {
+                    "code": "PhysicalChannel_879",
+                    "channelCode": "02000001000000050000000000000216",
+                    "bitrateType": "4",
+                    "bitrateTypeName": "高清",
+                    "params": {
+                        "ztecode": "ch000000000000030",
+                        "hwurl": "rtp://239.10.0.102:1025",
+                        "zteurl": "rtp://239.20.0.30:3284",
+                        "hwmediaid": "10000100000000060000000001560908",
+                        "hwcode": "10000100000000050000000000757855"
+                    }
+                },
+                {
+                    "code": "02000001000000060000000000000216",
+                    "channelCode": "02000001000000050000000000000216",
+                    "bitrateType": "2",
+                    "bitrateTypeName": "标清",
+                    "params": {
+                        "ztecode": "ch000000000000026",
+                        "hwurl": "rtp://239.10.0.108:1025",
+                        "zteurl": "rtp://239.20.0.26:3300",
+                        "hwmediaid": "10000100000000060000000001562986",
+                        "hwcode": "10000100000000050000000000759971"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "02000001000000052014052600000001",
+            "title": "广东体育高清",
+            "subTitle": "广东体育高清",
+            "channelnum": "302",
+            "icon": "http://183.235.16.92:8081/pics/micro-picture/channelNew/02000006000000052015070399000001.png",
+            "icon2": "",
+            "showFlag": "ChannelMark_6",
+            "timeshiftAvailable": "false",
+            "lookbackAvailable": "true",
+            "isCharge": "0",
+            "params": {
+                "ztecode": "ch000000000000103",
+                "hwurl": "rtp://239.10.0.113:1025",
+                "zteurl": "rtp://239.20.0.103:2004",
+                "playBackRecommendPos": "BizPosition_69714",
+                "hwmediaid": "10000100000000060000000000128461",
+                "recommendPos": "BizPosition_16227",
+                "hwcode": "10000100000000050000000000088732"
+            },
+            "phychannels": [
+                {
+                    "code": "PhysicalChannel_1071",
+                    "channelCode": "02000001000000052014052600000001",
+                    "bitrateType": "6",
+                    "bitrateTypeName": "超清",
+                    "params": {
+                        "ztecode": "ch000000000000097",
+                        "hwurl": "rtp://239.10.0.47:1025",
+                        "zteurl": "rtp://239.20.0.97:3012",
+                        "hwmediaid": "10000100000000060000000001240330",
+                        "hwcode": "10000100000000050000000000536146"
+                    }
+                },
+                {
+                    "code": "02000001000000062014052600000001",
+                    "channelCode": "02000001000000052014052600000001",
+                    "bitrateType": "4",
+                    "bitrateTypeName": "高清",
+                    "params": {
+                        "ztecode": "ch000000000000103",
+                        "hwurl": "rtp://239.10.0.113:1025",
+                        "zteurl": "rtp://239.20.0.103:2004",
+                        "hwmediaid": "10000100000000060000000000128461",
+                        "hwcode": "10000100000000050000000000088732"
+                    }
+                },
+                {
+                    "code": "PhysicalChannel_1073",
+                    "channelCode": "02000001000000052014052600000001",
+                    "bitrateType": "2",
+                    "bitrateTypeName": "标清",
+                    "params": {
+                        "ztecode": "ch000000000000114",
+                        "hwurl": "rtp://239.10.0.124:1025",
+                        "zteurl": "rtp://239.20.0.114:2026",
+                        "hwmediaid": "10000100000000060000000000128485",
+                        "hwcode": "10000100000000050000000000088754"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "02000000000000050000000000000153",
+            "title": "CCTV5+体育高清",
+            "subTitle": "CCTV5+体育高清",
+            "channelnum": "374",
+            "icon": "http://183.235.16.92:8081/pics/micro-picture/channelNew/02000000000000050000000000000153.png",
+            "icon2": "",
+            "showFlag": "ChannelMark_4",
+            "timeshiftAvailable": "true",
+            "lookbackAvailable": "true",
+            "isCharge": "0",
+            "params": {
+                "ztecode": "ch000000000000203",
+                "hwurl": "rtp://239.10.0.213:1025",
+                "zteurl": "rtp://239.20.0.203:2204",
+                "hwmediaid": "10000100000000060000000000315434",
+                "recommendPos": "BizPosition_16227",
+                "hwcode": "10000100000000050000000000122834"
+            },
+            "phychannels": [
+                {
+                    "code": "02000000000000060000000000000132",
+                    "channelCode": "02000000000000050000000000000153",
+                    "bitrateType": "4",
+                    "bitrateTypeName": "高清",
+                    "params": {
+                        "ztecode": "ch000000000000203",
+                        "hwurl": "rtp://239.10.0.213:1025",
+                        "zteurl": "rtp://239.20.0.203:2204",
+                        "hwmediaid": "10000100000000060000000000315434",
+                        "hwcode": "10000100000000050000000000122834"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "02000006000000052021102999000001",
+            "title": "CCTV-16高清",
+            "subTitle": "CCTV-16高清",
+            "channelnum": "390",
+            "icon": "http://183.235.16.92:8081/pics/micro-picture/channelNew/02000006000000052021102999000001.png",
+            "icon2": "",
+            "showFlag": "ChannelMark_4",
+            "timeshiftAvailable": "false",
+            "lookbackAvailable": "false",
+            "isCharge": "0",
+            "params": {
+                "ztecode": "ch000000000000357",
+                "hwurl": "rtp://239.11.0.126:1025",
+                "zteurl": "rtp://239.21.0.116:3808",
+                "hwmediaid": "urn:Huawei:liveTV:XTV382129879:E1382129880",
+                "recommendPos": "",
+                "hwcode": "urn:Huawei:liveTV:XTV382129879"
+            },
+            "phychannels": [
+                {
+                    "code": "02000006000000062021102999000001",
+                    "channelCode": "02000006000000052021102999000001",
+                    "bitrateType": "4",
+                    "bitrateTypeName": "高清",
+                    "params": {
+                        "hwcode": "urn:Huawei:liveTV:XTV382129879",
+                        "hwmediaid": "urn:Huawei:liveTV:XTV382129879:E1382129880",
+                        "hwurl": "rtp://239.11.0.126:1025",
+                        "ztecode": "ch000000000000357",
+                        "zteurl": "rtp://239.21.0.116:3808"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "02000006000000052020061799000003",
+            "title": "风云足球高清",
+            "subTitle": "风云足球高清",
+            "channelnum": "832",
+            "icon": "http://183.235.16.92:8081/pics/micro-picture/channelNew/02000006000000052020061799000003.png",
+            "icon2": "",
+            "showFlag": "ChannelMark_4",
+            "timeshiftAvailable": "true",
+            "lookbackAvailable": "true",
+            "isCharge": "0",
+            "params": {
+                "ztecode": "ch000000000000311",
+                "hwurl": "rtp://239.11.0.59:1025",
+                "zteurl": "rtp://239.21.0.70:3620",
+                "hwmediaid": "10000100000000060000000002014444",
+                "recommendPos": "",
+                "hwcode": "10000100000000050000000001216660"
+            },
+            "phychannels": [
+                {
+                    "code": "02000006000000062020061799000003",
+                    "channelCode": "02000006000000052020061799000003",
+                    "bitrateType": "4",
+                    "bitrateTypeName": "高清",
+                    "params": {
+                        "ztecode": "ch000000000000311",
+                        "hwurl": "rtp://239.11.0.59:1025",
+                        "zteurl": "rtp://239.21.0.70:3620",
+                        "hwmediaid": "10000100000000060000000002014444",
+                        "hwcode": "10000100000000050000000001216660"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "02000006000000052020061799000004",
+            "title": "央视台球高清",
+            "subTitle": "央视台球高清",
+            "channelnum": "833",
+            "icon": "http://183.235.16.92:8081/pics/micro-picture/channelNew/02000006000000052020061799000004.png",
+            "icon2": "",
+            "showFlag": "ChannelMark_4",
+            "timeshiftAvailable": "true",
+            "lookbackAvailable": "true",
+            "isCharge": "0",
+            "params": {
+                "ztecode": "ch000000000000312",
+                "hwurl": "rtp://239.11.0.60:1025",
+                "zteurl": "rtp://239.21.0.71:3624",
+                "hwmediaid": "10000100000000060000000002014479",
+                "recommendPos": "",
+                "hwcode": "10000100000000050000000001216690"
+            },
+            "phychannels": [
+                {
+                    "code": "02000006000000062020061799000004",
+                    "channelCode": "02000006000000052020061799000004",
+                    "bitrateType": "4",
+                    "bitrateTypeName": "高清",
+                    "params": {
+                        "ztecode": "ch000000000000312",
+                        "hwurl": "rtp://239.11.0.60:1025",
+                        "zteurl": "rtp://239.21.0.71:3624",
+                        "hwmediaid": "10000100000000060000000002014479",
+                        "hwcode": "10000100000000050000000001216690"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "02000006000000052020061799000005",
+            "title": "高尔夫网球高清",
+            "subTitle": "高尔夫网球高清",
+            "channelnum": "834",
+            "icon": "http://183.235.16.92:8081/pics/micro-picture/channelNew/02000006000000052020061799000005.png",
+            "icon2": "",
+            "showFlag": "ChannelMark_4",
+            "timeshiftAvailable": "true",
+            "lookbackAvailable": "true",
+            "isCharge": "0",
+            "params": {
+                "ztecode": "ch000000000000313",
+                "hwurl": "rtp://239.11.0.61:1025",
+                "zteurl": "rtp://239.21.0.72:3628",
+                "hwmediaid": "10000100000000060000000002014483",
+                "recommendPos": "",
+                "hwcode": "10000100000000050000000001216712"
+            },
+            "phychannels": [
+                {
+                    "code": "02000006000000062020061799000005",
+                    "channelCode": "02000006000000052020061799000005",
+                    "bitrateType": "4",
+                    "bitrateTypeName": "高清",
+                    "params": {
+                        "ztecode": "ch000000000000313",
+                        "hwurl": "rtp://239.11.0.61:1025",
+                        "zteurl": "rtp://239.21.0.72:3628",
+                        "hwmediaid": "10000100000000060000000002014483",
+                        "hwcode": "10000100000000050000000001216712"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "status": "200",
+    "channel": {
+        "code": "02000006000000052023072599000002",
+        "title": "现代教育高清",
+        "subTitle": "现代教育高清",
+        "channelnum": "317",
+        "icon": "http://183.235.16.92:8081/pics/micro-picture/channel/2023-07-26/0bc4b314-0fc0-40ce-bcbb-a8abe9298db1.png",
+        "icon2": "",
+        "timeshiftAvailable": "true",
+        "lookbackAvailable": "true",
+        "isVip": "0",
+        "params": {
+            "hwcode": "urn:Huawei:liveTV:XTV392653791",
+            "hwmediaid": "urn:Huawei:liveTV:XTV392653791:E1392653792",
+            "hwurl": "rtp://239.11.0.181:1025",
+            "ztecode": "ch000000000000389",
+            "zteurl": "rtp://239.21.0.148:3936",
+            "recommendPos": ""
+        }
+    },
+    "schedules": [
+        {
+            "channelCode": "02000006000000052023072599000002",
+            "code": "02000006000000072025021300034668",
+            "title": "智动画片、纪录片三档滚动(重播)",
+            "starttime": "20250213060000",
+            "endtime": "20250213080000",
+            "showStarttime": "06:00",
+            "isNow": "2",
+            "enableStatus": 1,
+            "limitedCopyright": false,
+            "drainageChannelCode": "",
+            "copyrightLimitedTip": ""
+        },
+        {
+            "channelCode": "02000006000000052023072599000002",
+            "code": "02000006000000072025021300034669",
+            "title": "智动画片、纪录片三档滚动(重播)",
+            "starttime": "20250213080000",
+            "endtime": "20250213100000",
+            "showStarttime": "08:00",
+            "isNow": "2",
+            "enableStatus": 1,
+            "limitedCopyright": false,
+            "drainageChannelCode": "",
+            "copyrightLimitedTip": ""
+        },
+        {
+            "channelCode": "02000006000000052023072599000002",
+            "code": "02000006000000072025021300034670",
+            "title": "智动画片、纪录片三档滚动(重播)",
+            "starttime": "20250213100000",
+            "endtime": "20250213120000",
+            "showStarttime": "10:00",
+            "isNow": "2",
+            "enableStatus": 1,
+            "limitedCopyright": false,
+            "drainageChannelCode": "",
+            "copyrightLimitedTip": ""
+        },
+        {
+            "channelCode": "02000006000000052023072599000002",
+            "code": "02000006000000072025021300034671",
+            "title": "智动画片、纪录片三档滚动(重播)",
+            "starttime": "20250213120000",
+            "endtime": "20250213140000",
+            "showStarttime": "12:00",
+            "isNow": "2",
+            "enableStatus": 1,
+            "limitedCopyright": false,
+            "drainageChannelCode": "",
+            "copyrightLimitedTip": ""
+        },
+        {
+            "channelCode": "02000006000000052023072599000002",
+            "code": "02000006000000072025021300034672",
+            "title": "智动画片、纪录片三档滚动(重播)",
+            "starttime": "20250213140000",
+            "endtime": "20250213160000",
+            "showStarttime": "14:00",
+            "isNow": "1",
+            "enableStatus": 1,
+            "limitedCopyright": false,
+            "drainageChannelCode": "",
+            "copyrightLimitedTip": ""
+        },
+        {
+            "channelCode": "02000006000000052023072599000002",
+            "code": "02000006000000072025021300034673",
+            "title": "智动画片、纪录片三档滚动(重播)",
+            "starttime": "20250213160000",
+            "endtime": "20250213180000",
+            "showStarttime": "16:00",
+            "isNow": "0",
+            "enableStatus": 1,
+            "limitedCopyright": false,
+            "drainageChannelCode": "",
+            "copyrightLimitedTip": ""
+        },
+        {
+            "channelCode": "02000006000000052023072599000002",
+            "code": "02000006000000072025021300034674",
+            "title": "智动画片、纪录片三档(首播)",
+            "starttime": "20250213180000",
+            "endtime": "20250213200000",
+            "showStarttime": "18:00",
+            "isNow": "0",
+            "enableStatus": 1,
+            "limitedCopyright": false,
+            "drainageChannelCode": "",
+            "copyrightLimitedTip": ""
+        },
+        {
+            "channelCode": "02000006000000052023072599000002",
+            "code": "02000006000000072025021300034675",
+            "title": "广东教育",
+            "starttime": "20250213200000",
+            "endtime": "20250213220000",
+            "showStarttime": "20:00",
+            "isNow": "0",
+            "enableStatus": 1,
+            "limitedCopyright": false,
+            "drainageChannelCode": "",
+            "copyrightLimitedTip": ""
+        },
+        {
+            "channelCode": "02000006000000052023072599000002",
+            "code": "02000006000000072025021300034676",
+            "title": "纪录片三档(重播)",
+            "starttime": "20250213220000",
+            "endtime": "20250214060000",
+            "showStarttime": "22:00",
+            "isNow": "0",
+            "enableStatus": 1,
+            "limitedCopyright": false,
+            "drainageChannelCode": "",
+            "copyrightLimitedTip": ""
+        }
+    ]
+}

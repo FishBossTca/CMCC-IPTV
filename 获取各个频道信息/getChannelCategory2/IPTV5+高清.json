@@ -1,0 +1,23 @@
+{
+    "status": "200",
+    "channel": {
+        "code": "02000000000000052016060399000001",
+        "title": "爱体育高清",
+        "subTitle": "IPTV5+高清",
+        "channelnum": "389",
+        "icon": "http://183.235.16.92:8081/pics/category/201612/14/2016121417525063051976.png",
+        "icon2": "",
+        "timeshiftAvailable": "true",
+        "lookbackAvailable": "true",
+        "isVip": "0",
+        "params": {
+            "hwmediaid": "10000100000000060000000000505162",
+            "zteurl": "rtp://239.20.0.208:2214",
+            "ztecode": "ch000000000000208",
+            "hwcode": "10000100000000050000000000150080",
+            "hwurl": "rtp://239.10.0.218:1025",
+            "recommendPos": "BizPosition_16227"
+        }
+    },
+    "schedules": []
+}
