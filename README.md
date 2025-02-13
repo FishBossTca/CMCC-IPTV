@@ -15,6 +15,12 @@
 ```python IPTV.py```即可在```./M3U文件输出/iptv.m3u```内找到整理好的m3文件
 
 ![m3u文件图片](./m3u.png)
+## 组播源获取
+1. 源码克隆
+在源码文件夹"M3U文件输出"内有原始的iptv.m3u，需要进行一些修改，例如组播rtp地址改为单播http地址，台标路径修改
+```git clone https://github.com/FishBossTca/CMCC-IPTV.git```
+2. Release下载
+在Release页面有我整理优化好的m3u文件，具体为剔除重复地址，优化频道组结构
 ## 详细说明
 ### 目标源地址
 ```http://183.235.16.92:8082/epg/api/custom/getAllChannel.json```里面包含全部频道的信息，含有rtp链接
