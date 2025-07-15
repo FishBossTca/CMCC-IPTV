@@ -12,7 +12,7 @@
 2. 设备具有python环境、需要安装pip依赖```requests```
 
 ### 运行脚本
-```python IPTV.py```即可在```./M3U文件输出/iptv.m3u```内找到整理好的m3文件
+```python IPTV.py```即可在```./M3U文件输出/iptv.m3u```内找到整理好的m3u文件
 
 ![m3u文件图片](./m3u.png)
 ## 组播源获取
